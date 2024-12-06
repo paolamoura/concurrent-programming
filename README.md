@@ -1,26 +1,32 @@
-## concurrent-programming
+# concurrent-programming
 
-Atividades práticas da disciplina Programação Concorrente da UFCG.
+Algorithms and other things developed for Concurrent Programming class.
 
-## Objetivos
+### Objectives
 
-- Compreender e implementar conceitos de **paralelismo**, **sincronização entre threads**, e **proteção de regiões críticas**.
-- Otimizar o desempenho de programas por meio de programação concorrente.
-- Desenvolver aplicações distribuídas utilizando linguagens como `GoLang`.
-- Simular cenários reais, como sistemas de e-commerce e processamento de arquivos.
+- Understand and implement concepts of **parallelism**, **synchronization between threads**, and **protection of critical regions**.
+- Optimize program performance through concurrent programming.
+- Develop distributed applications using languages ​​such as `GoLang`.
+- Simulate real-world scenarios, such as e-commerce systems and file processing.
 
-## Organização
+### Organization
 
-O repositório está organizado por laboratórios, onde cada um aborda um conceitos de programação concorrente:
+The repository is organized by labs, each of which addresses a concept of concurrent programming:
 
-- *Laboratório 1*: Introdução ao **paralelismo** com **processamento de arquivos** em `Python` e `Java`.
-- *Laboratório 2*: **Sincronização** de threads e **controle de concorrência**.
-- *Laboratório 3*: Cálculo de **similaridade entre arquivos** utilizando programação concorrente.
-- *Laboratório 4*: Implementação concorrente em `GoLang` para processamento eficiente.
-- *Laboratório 5*: Construção de um sistema distribuído inspirado em Bittorrent utilizando `GoLang`.
-- *Laboratório 6*: Sistema distribuído **Produtor-Consumidor** utilizando `Java`.
-- *Laboratório 7*: Processamento de pedidos em um sistema de e-commerce concorrente.
+- *Lab 1*: Introduction to **parallelism** with **file processing** in `Python` and `Java`.
+- *Lab 2*: **Thread synchronization** and **concurrency control**.
+- *Lab 3*: Calculation of **similarity between files** using concurrent programming.
+- *Lab 4*: Concurrent implementation in `GoLang` for efficient processing.
+- *Lab 5*: Building a Bittorrent-inspired distributed system using `GoLang`.
+- *Lab 6*: **Producer-Consumer** distributed system using `Java`.
+- *Lab 7*: Order processing in a concurrent e-commerce system.
 
-## Como Executar
+### How to Run
 
-Cada laboratório contém scripts (`build.sh` e `run.sh`) para facilitar a execução. Consulte os diretórios individuais para detalhes sobre como executar os programas em diferentes linguagens.
+Each lab contains scripts (`build.sh` and `run.sh`) to facilitate execution. See the individual directories for details on how to run the programs in different languages.
+
+### Nice Resources found so far
+
+- [Go by example](https://gobyexample.com/)
+- [Go Concurrency Patterns by Rob Pike @ Google](https://go.dev/talks/2012/concurrency.slide#1)
+- [The Go Programming Language Book](https://github.com/neo-liang-sap/book/blob/master/Go/The.Go.Programming.Language.pdf)
