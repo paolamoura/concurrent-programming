@@ -13,13 +13,13 @@ Algorithms and other things developed for Concurrent Programming class.
 
 The repository is organized by labs, each of which addresses a concept of concurrent programming:
 
-- *Lab 1*: Introduction to **parallelism** with **file processing** in `Python` and `Java`.
-- *Lab 2*: **Thread synchronization** and **concurrency control**.
-- *Lab 3*: Calculation of **similarity between files** using concurrent programming.
-- *Lab 4*: Concurrent implementation in `GoLang` for efficient processing.
-- *Lab 5*: Building a Bittorrent-inspired distributed system using `GoLang`.
-- *Lab 6*: **Producer-Consumer** distributed system using `Java`.
-- *Lab 7*: Order processing in a concurrent e-commerce system.
+1. Introduction to **parallelism** with **file processing** in `Python` and `Java`.
+2. **Thread synchronization** and **concurrency control**.
+3. Calculation of **similarity between files** using concurrent programming.
+4. Concurrent implementation in `GoLang` for efficient processing.
+5. Building a Bittorrent-inspired distributed system using `GoLang`.
+6. **Producer-Consumer** distributed system using `Java`.
+7. Order processing in a concurrent e-commerce system.
 
 ### How to Run
 
